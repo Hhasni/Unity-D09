@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/ZombitchScript.cs">
+    <Files>
+      <File FileName="Assets/Script/SpawnerManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/ZombitchScript.cs" Line="50" Column="11" />
+      <File FileName="Assets/Script/ShootScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/TrailScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/mapTriggerScipt.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/SmokeScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/PlayerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/GUILife.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GUIWavesScipts.cs" Line="34" Column="41" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/EnergyBallScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/SpawnerScript.cs" Line="21" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
